@@ -1,1 +1,3 @@
-content added after pushed
+content added after pushed.
+added new line from cursor
+added this after staged
