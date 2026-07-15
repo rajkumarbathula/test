@@ -1,3 +1,5 @@
 content added after pushed.
 added new line from cursor
 added this after staged
+
+added this line to check in and same time i did stash file6.txt
