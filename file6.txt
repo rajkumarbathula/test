@@ -1,3 +1,4 @@
 hellow i am in file6
 
 after stashing this file. i added this line.
+i added this line and i want to stash it.
